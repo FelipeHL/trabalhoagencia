@@ -1,0 +1,97 @@
+body{
+    height: 100%;
+    width: 100%;
+
+}
+.menu-principal{
+    background-color: rgb(247, 247, 247);
+    height: 100px;
+    width: 100%;
+}
+main{
+    margin:0 auto;
+    width: 980px;
+    
+}
+.logo{
+    float: left;
+    padding: 16px;
+    width: 45%;
+
+}
+.menu ul li {
+    margin-left: 25px;
+    display: inline-block;
+    
+}
+.header-2{
+    padding: 8px;
+    width: 95%;
+    margin-left: auto;
+    
+}
+.menu img{
+    height: 18px;
+    width: 18px;
+}
+.menu-urls{
+    height: 50px;
+}
+.menu-1 a:hover{
+    color: rgb(59, 149, 252);
+    border-bottom: 5px solid rgb(59, 149, 252);
+    height: 45px;
+}
+.menu-1 {
+ align-items: flex-start;
+}
+.menu-1 a {
+    
+    margin-right: 40px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+}
+.menu-1 img {
+    width: 20px;
+    height: 20px;
+}
+.col-100{
+    width: 100%;
+    float: left;
+    position: relative;
+
+}
+.corpo ul li {
+    margin-top: 10px;
+    padding-left: 200px;
+    display: inline-block;
+}
+.corpo ul li img {
+    list-style: none; 
+    height: 60px;
+    width: 60px;
+}
+.container{
+   font-size: large;
+   background-color: rgb(219, 219, 219);
+}
+.container h2 {
+    color: rgb(62, 55, 124);
+    padding-left: 35px;
+}
+.container h4 {
+    font-size: large;
+    color: rgb(62, 55, 124);
+    padding-left: 35px;
+}
+.container p {
+    color: rgb(70, 70, 70);
+    padding-left: 50px;
+    padding-right: 40px;
+}
+.corpo ul li p {
+    color: rgb(62, 55, 124);
+    text-decoration: wavy;
+    
+}
